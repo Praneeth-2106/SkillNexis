@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with React",
+    "category": "React",
+    "description": "Learn the fundamentals of React including components, JSX, and props."
+  },
+  {
+    "id": 2,
+    "title": "Understanding JavaScript ES6",
+    "category": "JavaScript",
+    "description": "Explore modern JavaScript features like arrow functions, destructuring, and modules."
+  },
+  {
+    "id": 3,
+    "title": "Responsive Web Design",
+    "category": "CSS",
+    "description": "Build responsive websites using Flexbox, Grid, and media queries."
+  },
+  {
+    "id": 4,
+    "title": "Node.js Basics",
+    "category": "Backend",
+    "description": "Understand how to build server-side applications using Node.js."
+  },
+  {
+    "id": 5,
+    "title": "MongoDB Essentials",
+    "category": "Database",
+    "description": "Learn CRUD operations and document-based database concepts with MongoDB."
+  },
+  {
+    "id": 6,
+    "title": "React Hooks Explained",
+    "category": "React",
+    "description": "Understand useState, useEffect, and other commonly used React Hooks."
+  }
+]
